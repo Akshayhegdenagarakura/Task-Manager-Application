@@ -1,5 +1,5 @@
 1. Open your preferred code editor such as Visual Studio Code.
-2. Navigate to the "task-management-app" folder.
+2. Navigate to the "Task-Manager-Application" folder in github or "task-management-app" folder in drive folder.
 3. Ensure that your terminal is focused on the "backend" directory within this folder.
 4. Run the command "node server.js" in the terminal (assuming Node.js is installed).
 5. Open the HTML file in your code editor.
